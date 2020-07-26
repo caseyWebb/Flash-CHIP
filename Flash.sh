@@ -41,7 +41,7 @@ if [ -d CHIP-tools ]; then
  cd CHIP-tools 
  git pull 
 elif [ ! -d CHIP-tools ]; then
- git clone https://github.com/Project-chip-crumbs/CHIP-tools.git
+ git clone https://github.com/caseyWebb/CHIP-tools.git
  cd  CHIP-tools 
 fi
 
